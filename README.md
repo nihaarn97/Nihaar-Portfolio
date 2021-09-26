@@ -1,7 +1,7 @@
 # Nihaar_Portfolio
 A peek at my journey in the field of Data Science
 
-#Eduvance
+# Eduvance
 Following projects were done as part of my internship at eduvance
 * Titanic prediction
 * Iris Predction
