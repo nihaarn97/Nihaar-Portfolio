@@ -1,11 +1,11 @@
 # Nihaar_Portfolio
 My journey in the field of Data Science
 
-# [Eduvance](https://github.com/nihaarn97/Eduvance_Notebooks)
-I worked on the following projects as part of my internship and industrial training at Eduvance
+# [Eduvance Internship](https://github.com/nihaarn97/Eduvance_Notebooks)
+Linked below below are some of the projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance
 * **[Diamond Data Analysis](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
 
-   Used the funtionalities of Pandas and Matplotlib to analyze a large dataset of different diamond types to understand relation between different features and gain other insights.  
+   Used the functionalities of Pandas and Matplotlib to analyze a large dataset of different diamond types to understand relation between different features and gain other insights.  
 * **[Iris Classification](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Iris_Classification_Tree.ipynb) -**
 
    Built and compared the performance of Decision Tree Models of varying depths to predict class of Iris Flower based on relevant features that were picked on the basis of correlation.  
