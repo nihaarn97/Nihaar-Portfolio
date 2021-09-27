@@ -23,4 +23,4 @@ Following are some of the projects that I worked on as part of the Summer Intern
    Performed K-Means Clustering on a given dataset with 2 columns. Visualized the clusters to understand basic cluster properties.
 * **[Volcanic Eruption Clustering](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Volcanic_Eruption_Cluster.ipynb) -**
 
-   Built a K-Means Clustering Model using features Eruption Duration and Time Between Eruptions on a dateset of volcanic eruption activity. Predicted clusters for new data points.       
+   Built a K-Means Clustering Model from a dateset of volcanic eruption activity using features Eruption Duration and Time Between Eruptions. Predicted clusters for new data points.       
