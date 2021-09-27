@@ -5,7 +5,7 @@ A peek at my journey in the field of Data Science
 I worked on the following projects as part of my internship and industrial training at Eduvance
 * **[Diamond Data Analysis](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
 
-   Performimg K-Means Clustering on the given dataset and finding cluster properties.
+   Used the funtionalities of Pandas and Matplotlib to analyzed a large dataset of different diamond types to understand relation between different features and gain other insights.
 * **[Clustering Analysis](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Clustering_Analysis_KMeans.ipynb) -**
 
    Performimg K-Means Clustering on the given dataset and finding cluster properties.  
