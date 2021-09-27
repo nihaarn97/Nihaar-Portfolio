@@ -1,4 +1,4 @@
-# Nihaar's Portfolio
+# Nihaar_Portfolio
 My journey in the field of Data Science
 
 # [Eduvance](https://github.com/nihaarn97/Eduvance_Notebooks)
