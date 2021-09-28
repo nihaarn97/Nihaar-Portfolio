@@ -3,7 +3,7 @@ My journey in the field of Data Science
 
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
 Following are some of the projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance
-* **[<ins>Diamond Data Analysis](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
+* **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
 
    Used the functionalities of Pandas and Matplotlib to analyze a large dataset of different diamond types to understand relation between different features and gain other insights.  
 * **[<ins>Iris Classification</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Iris_Classification_Tree.ipynb) -**
