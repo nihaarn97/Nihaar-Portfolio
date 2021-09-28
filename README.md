@@ -1,6 +1,6 @@
 # Nihaar_Portfolio
 My journey in the field of Data Science
-
+---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
 ### Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance
 * **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
