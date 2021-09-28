@@ -25,6 +25,7 @@ My journey in the field of Data Science
 * **[<ins>Volcanic Eruption Clustering</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Volcanic_Eruption_Cluster.ipynb) -**
 
    Built a K-Means Clustering Model from a dateset of volcanic eruption activity using features Eruption Duration and Time Between Eruptions. Predicted clusters for new data points.       
+
 ---
 # [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Certi_Notebooks)
 ### Projects that I worked on during the IBM Data Science Professional Certification offered on Coursera
