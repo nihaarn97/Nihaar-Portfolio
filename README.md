@@ -2,7 +2,7 @@
 My journey in the field of Data Science
 
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
-### Projects I worked on as part of the Summer Internship and Industrial Training Program at Eduvance
+### Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance
 * **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
 
    Used the functionalities of Pandas and Matplotlib to analyze a large dataset of different diamond types to understand relation between different features and gain other insights.  
@@ -26,7 +26,7 @@ My journey in the field of Data Science
    Built a K-Means Clustering Model from a dateset of volcanic eruption activity using features Eruption Duration and Time Between Eruptions. Predicted clusters for new data points.       
    
 # [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Certi_Notebooks)
-### Projects I worked on during the IBM Data Science Professional Certification offered on Coursera
+### Projects that I worked on during the IBM Data Science Professional Certification offered on Coursera
 * **[<ins>Stock Price Visualization</ins>](https://github.com/nihaarn97/IBM_Certi_Notebooks/blob/main/Stocks_Viz_API_Scraping.ipynb) -**
 
    Used the yfinance library and webscraping to visualize the growth of Tesla Stock over the years and the Crowd-Sourced short squeeze of GameStop Stock.  
