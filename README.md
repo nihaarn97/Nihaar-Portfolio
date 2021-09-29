@@ -27,7 +27,7 @@ My journey in the field of Data Science
    Built a K-Means Clustering Model from a dateset of volcanic eruption activity using features Eruption Duration and Time Between Eruptions. Predicted clusters for new data points.       
 
 ---
-# [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Certi_Notebooks)
+# [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Data_Science)
 ### Projects that I worked on during the IBM Data Science Professional Certification offered on Coursera
 * **[<ins>Stock Price Visualization</ins>](https://github.com/nihaarn97/IBM_Certi_Notebooks/blob/main/Stocks_Viz_API_Scraping.ipynb) -**
 
