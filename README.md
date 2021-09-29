@@ -34,13 +34,13 @@ My journey in the field of Data Science
    Used the yfinance library and webscraping to visualize the growth of Tesla Stock over the years and the Crowd-Sourced short squeeze of GameStop Stock.  
 * **[<ins>Analysis With SQL Magic</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/SQL_Magic_Analysis.ipynb) -**
 
-   Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter kernel. The datasets were dumped in the Db-2 database of IBM Cloud.  
+   Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter Kernel. The datasets were dumped in the Db-2 database of IBM Cloud.  
 * **[<ins>Basics of Data Wrangling</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Data_Wrangling.ipynb) -**
 
-   Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter kernel. The datasets were dumped in the Db-2 database of IBM Cloud.  
+   Applied concepts of Data Wrangling like Handling Missing Values, Feature Engineering, Normalization, Binning and Encoding on an automobile dataset to prepare it for further analysis.    
 * **[<ins>Basics of Exploratory Data Analysis</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_EDA.ipynb) -**
 
-   Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter kernel. The datasets were dumped in the Db-2 database of IBM Cloud. 
+   Applied concepts of Exploratory Data Analysis like Feature Pattern Visualization, Desciptive Statistical Analysis, P-Value Correlation and ANOVA on an automobile dataset to identify important features for modelling.   
 * **[<ins>Basics of Model Evaluation and Refinement</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Model_Eval.ipynb) -**
 
    Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter kernel. The datasets were dumped in the Db-2 database of IBM Cloud. 
