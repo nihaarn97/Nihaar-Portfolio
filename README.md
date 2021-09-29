@@ -46,4 +46,4 @@ My journey in the field of Data Science
    Applied concepts of Model Evaluation like Overfitting, Underfitting and Cross-Validation on an autombile dataset. Also performed Hyperparamter tuning using Grid Search to increase accuracy of selected model.   
  * **[<ins>Housing Price Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Housing_Wrangling_EDA_Eval.ipynb) -**
 
-   Performed Wrangling and EDA on a dataset of house sales in Kings County, USA. Modelled and evaluated the performance of a Linear Regression Model, Polynomial Regression Pipeline and a Ridge Regression Model to predict the price of a house based on important features.   
+   Performed Wrangling and EDA on a dataset of house sales in Kings County, USA. Built a Linear Regression Model, Polynomial Regression Pipeline and a Ridge Regression Model to predict the price of a house based on important features.   
