@@ -31,7 +31,7 @@ My journey in the field of Data Science
 ### Projects that I worked on during the IBM Data Science Professional Certification offered on Coursera
 * **[<ins>Stock Price Visualization</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/Stocks_Viz_API_Scraping.ipynb) -**
 
-   Used the yfinance library and webscraping to visualize the growth of Tesla Stock over the years and the Crowd-Sourced short squeeze of GameStop Stock.  
+   Used the yfinance library and webscraping to gather stock data and visualize the growth of Tesla Stock over the years and the Crowd-Sourced short squeeze of GameStop Stock.  
 * **[<ins>Analysis With SQL Magic</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/SQL_Magic_Analysis.ipynb) -**
 
    Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter Kernel. The datasets were dumped in the Db-2 database of IBM Cloud.  
