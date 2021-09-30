@@ -1,6 +1,6 @@
 # Nihaar_Portfolio
 My journey in the field of Data Science
-(Project names below are linked to their notebooks. Headings are linked to their repositories)
+   (Project names below are linked to their notebooks. Headings are linked to their repositories)
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
