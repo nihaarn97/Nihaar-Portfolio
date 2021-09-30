@@ -47,3 +47,9 @@ My journey in the field of Data Science
  * **[<ins>Housing Price Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Housing_Wrangling_EDA_Eval.ipynb) -**
 
    Performed Wrangling and EDA on a dataset of house sales in King County, USA. Built a Linear Regression Model, Polynomial Regression Pipeline and a Ridge Regression Model to predict the price of a house based on important features.   
+ * **Recommendation Systems -**
+
+   Developed a system for recommending movies using scores calculatted from [<ins>User Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) Collaborative Filtering. Also developed same system using [<ins>Content Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_ContentCF_RecSys.ipynb) Collaborative Filtering.
+* **[<ins>Loan Status Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
+
+   Built classifier models - KNN, SVM, Logistic Regression & Decision Tree - to predict whether a customer will pay or default on their loan using a dateset of past loan application statuses. Relevant features were picked using EDA and model performance was evaluated on the basis of F1-Score and Jaccard Score to pick the best model.  
