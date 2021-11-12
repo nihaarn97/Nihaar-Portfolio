@@ -1,5 +1,5 @@
 # Nihaar_Portfolio
-My journey in the field of Data Science</br>
+My journey in the field of Data Science<br>
 (Project names below are linked to their notebooks. Headings are linked to their repositories)
 
 ---
