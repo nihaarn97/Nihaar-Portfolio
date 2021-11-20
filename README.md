@@ -1,4 +1,3 @@
-# Nihaar_Portfolio
 My journey in the field of Data Science<br>
 (Project names below are linked to their notebooks. Headings are linked to their repositories)
 
@@ -33,24 +32,27 @@ My journey in the field of Data Science<br>
 * **[<ins>Stock Price Visualization</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/Stocks_Viz_API_Scraping.ipynb) -**
 
    Used the yfinance library and webscraping to gather stock data and visualize the growth of Tesla Stock over the years and the Crowd-Sourced short squeeze of GameStop Stock.  
-* **[<ins>Analysis With SQL Magic</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/SQL_Magic_Analysis.ipynb) -**
+* **[<ins>Data analysis With SQL Magic</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/SQL_Magic_Analysis.ipynb) -**
 
    Performed analysis on datasets from the city of Chicago to gain insights using the SQL Magic functionality of Jupyter Kernel. The datasets were dumped in the Db-2 database of IBM Cloud.  
-* **[<ins>Basics of Data Wrangling</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Data_Wrangling.ipynb) -**
+* **[<ins>Data Wrangling</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Data_Wrangling.ipynb) -**
 
    Applied concepts of Data Wrangling like Handling Missing Values, Feature Engineering, Normalization, Binning and Encoding on an automobile dataset to prepare it for further analysis.    
-* **[<ins>Basics of Exploratory Data Analysis</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_EDA.ipynb) -**
+* **[<ins>Exploratory Data Analysis</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_EDA.ipynb) -**
 
    Applied concepts of Exploratory Data Analysis like Feature Pattern Visualization, Desciptive Statistical Analysis, P-Value Correlation and ANOVA on an automobile dataset to identify important features for modelling.   
-* **[<ins>Basics of Model Evaluation and Refinement</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Model_Eval.ipynb) -**
+* **[<ins>Model Evaluation and Refinement</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Model_Eval.ipynb) -**
 
    Applied concepts of Model Evaluation like Overfitting, Underfitting and Cross-Validation on an autombile dataset. Also performed Hyperparameter tuning using Grid Search to increase accuracy of selected model.   
  * **[<ins>Housing Price Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Housing_Wrangling_EDA_Eval.ipynb) -**
 
    Performed Wrangling and EDA on a dataset of house sales in King County, USA. Built a Linear Regression Model, Polynomial Regression Pipeline and a Ridge Regression Model to predict the price of a house based on important features.   
- * **[<ins>Recommendation Systems</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) -**
+ * **[<ins>Movie Recommender System</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) -**
 
    Developed a system for recommending movies using scores calculatted from [<ins>User Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) Collaborative Filtering. Also developed same system using [<ins>Content Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_ContentCF_RecSys.ipynb) Collaborative Filtering.
-* **[<ins>Loan Status Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
+* **[<ins>Loan Approval Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
 
-   Built classifier models - KNN, SVM, Logistic Regression & Decision Tree - to predict whether a customer will pay or default on their loan using a dateset of past loan application statuses. Models were evaluated on the basis of Jaccard & F-1 Score to pick the best model.  
+   Built classifier models - KNN, SVM, Logistic Regression & Decision Tree - to predict whether a customer will pay or default on their loan using a dateset of past loan application statuses. Models were evaluated on the basis of Jaccard & F-1 Score to pick the best model.
+* **[<ins>Temperature Anomaly Detection</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
+
+   Used DBSCAN to cluster Canadian weather stations based on location and temperature data for a given month. Utilized the obtained clusters to identify anomalies in weather conditions by analyzing outliers in clusters.
