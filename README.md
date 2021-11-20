@@ -1,4 +1,4 @@
-My journey in the field of Data Science<br>
+Hi! I'm Nihaar, a 24yr old Software Engineer and this is my journey in the field of Data Science and Machine Learning<br>
 (Project names below are linked to their notebooks. Headings are linked to their repositories)
 
 ---
@@ -53,6 +53,6 @@ My journey in the field of Data Science<br>
 * **[<ins>Loan Approval Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
 
    Built classifier models - KNN, SVM, Logistic Regression & Decision Tree - to predict whether a customer will pay or default on their loan using a dateset of past loan application statuses. Models were evaluated on the basis of Jaccard & F-1 Score to pick the best model.
-* **[<ins>Temperature Anomaly Detection</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
+* **[<ins>Temperature Anomaly Detection</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Weather_Station_Cluster.ipynb) -**
 
    Used DBSCAN to cluster Canadian weather stations based on location and temperature data for a given month. Utilized the obtained clusters to identify anomalies in weather conditions by analyzing outliers in clusters.
