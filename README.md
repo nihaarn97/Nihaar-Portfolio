@@ -58,4 +58,4 @@ Hi! I'm Nihaar, a 24yr old Software Engineer and this is my journey in the field
    Used DBSCAN to cluster Canadian weather stations based on location and temperature data for a given month. Utilized the obtained clusters to identify anomalies in weather conditions by analyzing outliers in clusters.
 * **[<ins>SpaceX Boosters Landing Outcome Prediction</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Capstone/SpaceX_Machine_Learning.ipynb) -**
 
-   As a Data Scientist for a competiting startup, I developed and evaluated models for predicting when the SpaceX Falcon missions will be unable to land their first stage boosters thus, leading to an increase in cost of launch. This information could then be used by us to bid for the launch at a lower price.
+   As a Data Scientist for a competiting startup, I developed and evaluated models for predicting when the SpaceX Falcon missions will be unable to land their first stage boosters thus, leading to an increase in cost of launch. This information could then be used by us to bid for the launch at a lower price. Data was collected using SpaceX API and scraping SpaceX Falcon wiki.
