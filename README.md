@@ -59,3 +59,6 @@ Hi! I'm Nihaar, a 24yr old Software Engineer and this is my journey in the field
 * **[<ins>SpaceX Boosters Landing Outcome Prediction</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Capstone/SpaceX_Machine_Learning.ipynb) -**
 
    As a Data Scientist for a competiting startup, I developed and evaluated models for predicting when the SpaceX Falcon missions will be unable to land their first stage boosters thus, leading to an increase in cost of launch. This information could then be used by us to bid for the launch at a lower price. Data was collected using SpaceX API and scraping SpaceX Falcon wiki.
+* **[<ins>Airline Statistics Dashboard</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%208%20-%20Data%20Visualization/Dashboard_Airline_Stats.ipynb) -**
+
+   Utilized Python Dash to create a dashboard for viewing airline performance reports or airline delay reports for a given year at San Francisco Airport. Plotted delay caused by security, late aircraft, weather and late passengers. Plotted reports like flight cancellations, average flight times, flights per state and flights per destination for every airline carrier.  
