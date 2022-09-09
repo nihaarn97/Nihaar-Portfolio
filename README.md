@@ -1,4 +1,4 @@
-Hi! I'm Nihaar, a 24yr old Software Engineer and this is my journey in the field of Data Science and Machine Learning<br>
+Hi! I'm Nihaar, a 25yr old Graduate Student at Indiana University Bloomington and this is my journey in the field of Data Science and Machine Learning<br>
 (Project names below are linked to their notebooks. Headings are linked to their repositories)
 
 ---
