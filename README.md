@@ -66,5 +66,9 @@ Hi! I'm Nihaar, a 26 yr old Graduate Student at Indiana University Bloomington a
 ---
 # [<ins>Indiana University</ins>](https://github.com/nihaarn97/IUB_Projects)
 ### Projects that have I worked on as part of the coursework during my graduate program
+* **[<ins>Tumor Classification Using Ensemble Learning</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Tumor%20Classification%20Ensemble) -**
+* **[<ins>Sleep Quality Predictor Using Logistic Regression</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sleep%20Quality%20Predictor) -**
+* **[<ins>Electric Transformer Oil Temperature Forecasting</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Electric%20Transformer%20Forecasting) -**
+* **[<ins>Sketch Classification Using Neural Networks</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sketch%20Classification%20NN) -**
 
  
