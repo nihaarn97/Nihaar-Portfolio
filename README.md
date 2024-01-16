@@ -47,16 +47,13 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
    <p align="justify">As a Data Scientist for a spacecraft and space launch startup, I  developed predictive models to forecast instances when SpaceX Falcon missions might face challenges in successfully landing their first stage boosters, resulting in elevated launch costs. Leveraging data sourced from SpaceX API and web scraping of the SpaceX Falcon wiki, I identified key influencers such as payload capacity, weather conditions, and launch site. This strategic analysis empowered our team to optimize bidding strategies, securing launch opportunities at a competitive advantage.</p>
 * **[<ins>Movie Recommender System</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) -**
 
-    <p align="justify">Developed a system for recommending movies using scores calculatted from [<ins>User Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) Collaborative Filtering. Also developed this recommender system using [<ins>Content Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_ContentCF_RecSys.ipynb) Collaborative Filtering.</p>
-* **[<ins>Airline Statistics Dashboard</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%208%20-%20Data%20Visualization/Dashboard_Airline_Stats.ipynb) -**
-* **[<ins>Stock Price Visualization</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/Stocks_Viz_API_Scraping.ipynb)**
-* **[<ins>Data Analysis With SQL Magic</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/SQL_Magic_Analysis.ipynb)**
-* **[<ins>Basics Of Data Wrangling</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Data_Wrangling.ipynb)**
+    Developed a system for recommending movies using scores calculatted from [<ins>User Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_UserCF_RecSys.ipynb) Collaborative Filtering. Also developed this recommender system using [<ins>Content Based</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Movies_ContentCF_RecSys.ipynb) Collaborative Filtering.
+* **[<ins>Airline Statistics Dashboard</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%208%20-%20Data%20Visualization/Dashboard_Airline_Stats.ipynb)**
 * **[<ins>Exploratory Data Analysis</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_EDA.ipynb)**
 * **[<ins>Model Evaluation And Refinement</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Automobile_Model_Eval.ipynb)**
 * **[<ins>Housing Price Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%207%20-%20Data%20Analysis/Housing_Wrangling_EDA_Eval.ipynb)**
-* **[<ins>Loan Approval Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb) -**
-* **[<ins>Temperature Anomaly Detection</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Weather_Station_Cluster.ipynb) -**
+* **[<ins>Loan Approval Predictor</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Loan_Status_Supervised.ipynb)**
+* **[<ins>Temperature Anomaly Detection</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%209%20-%20Machine%20Learning/Weather_Station_Cluster.ipynb)**
 
 ---
  
