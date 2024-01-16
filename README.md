@@ -25,6 +25,10 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
   <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface. The site can be accessed here - https://realty-junction.onrender.com/ </p>
 
 ---
+# [<ins>PyTorch For Deep Learning</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning)
+<h3 align="justify"> Recognizing the pervasive adoption of PyTorch in industry giants such as Meta, Uber, Tesla, and OpenAI, I proactively undertook a comprehensive course to align my skillset with the prevailing demands of the job market.</h3>
+
+---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
 <h4 align="justify">Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I gained experience in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h4>
 
