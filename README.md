@@ -1,5 +1,21 @@
-Hi! I'm Nihaar, a 26 yr old Graduate Student at Indiana University Bloomington and this is my journey in the field of Data Science and Machine Learning<br>
+Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana University - Bloomington (IUB). This portfolio highlights my journey in the field of Data Science and Machine Learning with some of the projects that showcase my skillset.<br>
 (Project names below are linked to their notebooks. Headings are linked to their repositories)
+
+---
+# [<ins>Indiana University</ins>](https://github.com/nihaarn97/IUB_Projects)
+### All the projects that I have worked on as part of my coursework during my graduate program at IUB.
+* **[<ins>Stock Trend Estimation Using Sentiment Analysis On Hindi News Headlines</ins>](https://github.com/nihaarn97/LING-L545/tree/master/05_Project) -**
+  Developed an approach for daily stock trend estimation on NASDAQ and BSE to address the challenge of market volatility. Created a sentiment analysis model in Hindi by utilizing transfer learning on pre treained ULMFiT and LSTM models. The results provided actionable insights for Indian investors in the dynamic stock market landscape and empowered stakeholders with a nuanced understanding of market sentiments, enabling informed decision-making based on the interplay of information and emotion.
+* **[<ins>Tumor Classification Using Ensemble Learning</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Tumor%20Classification%20Ensemble) -**
+  Implemented multiple bagging and boosting classifiers on the BRCA dataset to perform comparative analysis and understand the impact of tuning various hyperparameters associated with each approach.
+* **[<ins>Sleep Quality Predictor Using Logistic Regression</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sleep%20Quality%20Predictor) -**
+  Investigated the influence of diverse lifestyle factors, including exercise, bedtime, caffeine intake, smoking, and drinking habits, along with sleep quality metrics such as awakenings, deep sleep percentage, light sleep percentage, and REM sleep percentage. The objective was to ascertain whether these variables collectively contribute to achieving a sleep efficiency above a predefined threshold indicative of good sleep quality.
+* **[<ins>Electric Transformer Oil Temperature Forecasting</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Electric%20Transformer%20Forecasting) -**
+  Developed and implemented ARMAX models for forecasting oil temperature in electrical transformers to address the challenge of efficient power distribution. This was achieved by analyzing historical data on transformer conditions, power demand, and external load factors. 
+* **[<ins>Sketch Classification Using Neural Networks</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sketch%20Classification%20NN) -**
+  Developed a Convolutional Neural Network (CNN) leveraging TensorFlow classify a diverse array of hand-drawn sketches into 100 distinct classes. Through training and optimization, the model attained an accuracy rate of 70%, showcasing a robust capability for image classification.
+* **[<ins>RealtyJunction</ins>](https://github.com/anujmahajan98/Realty-Junction---Real-Estate-Contractor/tree/abhishek) -**
+  Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface.
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
@@ -64,11 +80,4 @@ Hi! I'm Nihaar, a 26 yr old Graduate Student at Indiana University Bloomington a
    Utilized Python Dash to create a dashboard for viewing airline performance reports or airline delay reports for a given year at San Francisco Airport. Plotted delay caused by security, late aircraft, weather and late passengers. Plotted reports like flight cancellations, average flight times, flights per state and flights per destination for every airline carrier. 
 
 ---
-# [<ins>Indiana University</ins>](https://github.com/nihaarn97/IUB_Projects)
-### Projects that have I worked on as part of the coursework during my graduate program
-* **[<ins>Tumor Classification Using Ensemble Learning</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Tumor%20Classification%20Ensemble) -**
-* **[<ins>Sleep Quality Predictor Using Logistic Regression</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sleep%20Quality%20Predictor) -**
-* **[<ins>Electric Transformer Oil Temperature Forecasting</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Electric%20Transformer%20Forecasting) -**
-* **[<ins>Sketch Classification Using Neural Networks</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sketch%20Classification%20NN) -**
-
  
