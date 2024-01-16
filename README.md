@@ -22,32 +22,20 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
   <p align="justify">Developed a Convolutional Neural Network (CNN) leveraging TensorFlow classify a diverse array of hand-drawn sketches into 100 distinct classes. Through training and optimization, the model attained an accuracy rate of 70%, showcasing a robust capability for image classification.</p>
 * **[<ins>RealtyJunction</ins>](https://github.com/anujmahajan98/Realty-Junction---Real-Estate-Contractor/tree/abhishek) -**
   
-  <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface. The site can be accessed here - [https://realty-junction.onrender.com/](url) </p>
+  <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface. The site can be accessed here - https://realty-junction.onrender.com/ </p>
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
-### Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance
-* **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
-
-   Used the functionalities of Pandas and Matplotlib to analyze a large dataset of different diamond types to understand relation between different features and gain other insights.  
-* **[<ins>Iris Classification</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Iris_Classification_Tree.ipynb) -**
-
-   Built and compared the performance of Decision Tree Models of varying depths to predict class of Iris Flower based on relevant features that were picked on the basis of Correlation.  
+### Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I cultivated expertise in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.
 * **[<ins>Diabetes Prediction</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Perceptron_Diabetes_Predict.ipynb) -**
 
-   Built a Perceptron Model to predict whether a person has Diabetes or not based on their Age and Glucose levels. Performed EDA on the dataset to gain other insights.
-* **[<ins>Regression Analysis on Autombile Dataset</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Regression_Automobile_MPG.ipynb) -**
-
-   Analyzed given dataset to pick suitable features and build a Linear Regression Model that can predict the miles per gallon for car models from different years and different US States.    
+   <p align="justify">Constructed a Perceptron Model to predict the likelihood of diabetes in individuals, utilizing key features such as Age, Insulin levels, and Glucose levels. Conducted comprehensive Exploratory Data Analysis (EDA) on the dataset, unveiling additional insights into the underlying patterns and factors influencing diabetes prediction.</p>
+* **[<ins>Iris Classification</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Iris_Classification_Tree.ipynb) -**
+* **[<ins>Automobile Mileage Prediction Using Regression Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Regression_Automobile_MPG.ipynb) -**
 * **[<ins>Titanic Survival Prediction</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Titanic_Survival_Modelling.ipynb) -**
-
-   Built a Perceptron Model and Decision Tree Model using a dataset of passengers on Titanic and whether they survived or not. Both models could predict survival of passengers to a high degree.   
 * **[<ins>Clustering Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Clustering_Analysis_KMeans.ipynb) -**
-
-   Performed K-Means Clustering on a given dataset with 2 columns. Visualized the clusters to understand basic cluster properties.
 * **[<ins>Volcanic Eruption Clustering</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Volcanic_Eruption_Cluster.ipynb) -**
-
-   Built a K-Means Clustering Model from a dateset of volcanic eruption activity using features Eruption Duration and Time Between Eruptions. Predicted clusters for new data points.       
+* * **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
 
 ---
 # [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Data_Science)
