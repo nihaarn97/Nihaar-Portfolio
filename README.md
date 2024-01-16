@@ -26,7 +26,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
-<p align="justify"><h3>Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I cultivated expertise in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h3></p>
+<p align="justify"><h3 align="justify">Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I cultivated expertise in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h3></p>
 * **[<ins>Diabetes Prediction</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Perceptron_Diabetes_Predict.ipynb) -**
 
    <p align="justify">Constructed a Perceptron Model to predict the likelihood of diabetes in individuals, utilizing key features such as Age, Insulin levels, and Glucose levels. Conducted comprehensive Exploratory Data Analysis (EDA) on the dataset, unveiling additional insights into the underlying patterns and factors influencing diabetes prediction.</p>
