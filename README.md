@@ -16,6 +16,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 * **[<ins>Electric Transformer Oil Temperature Forecasting</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Electric%20Transformer%20Forecasting) -**
   
  <p align="justify">Developed and implemented ARMAX models for forecasting oil temperature in electrical transformers to address the challenge of efficient power distribution. This was achieved by analyzing historical data on transformer conditions, power demand, and external load factors.</p>
+ 
 * **[<ins>Sketch Classification Using Neural Networks</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sketch%20Classification%20NN) -**
   
   <p align="justify">Developed a Convolutional Neural Network (CNN) leveraging TensorFlow classify a diverse array of hand-drawn sketches into 100 distinct classes. Through training and optimization, the model attained an accuracy rate of 70%, showcasing a robust capability for image classification.</p>
