@@ -26,7 +26,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
-### Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I cultivated expertise in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.
+<p align="justify"> ### Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I cultivated expertise in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes. </p>
 * **[<ins>Diabetes Prediction</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Perceptron_Diabetes_Predict.ipynb) -**
 
    <p align="justify">Constructed a Perceptron Model to predict the likelihood of diabetes in individuals, utilizing key features such as Age, Insulin levels, and Glucose levels. Conducted comprehensive Exploratory Data Analysis (EDA) on the dataset, unveiling additional insights into the underlying patterns and factors influencing diabetes prediction.</p>
@@ -35,7 +35,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 * **[<ins>Titanic Survival Prediction</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Titanic_Survival_Modelling.ipynb) -**
 * **[<ins>Clustering Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Clustering_Analysis_KMeans.ipynb) -**
 * **[<ins>Volcanic Eruption Clustering</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Volcanic_Eruption_Cluster.ipynb) -**
-* * **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
+* **[<ins>Diamond Data Analysis</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Diamond_Data_Analysis.ipynb) -**
 
 ---
 # [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Data_Science)
