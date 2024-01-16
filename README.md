@@ -22,7 +22,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
   <p align="justify">Developed a Convolutional Neural Network (CNN) leveraging TensorFlow classify a diverse array of hand-drawn sketches into 100 distinct classes. Through training and optimization, the model attained an accuracy rate of 70%, showcasing a robust capability for image classification.</p>
 * **[<ins>RealtyJunction</ins>](https://github.com/anujmahajan98/Realty-Junction---Real-Estate-Contractor/tree/abhishek) -**
   
-  <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface. The site can be accessed here - **[<ins>RealtyJunction</ins>](https://realty-junction.onrender.com/)** </p>
+  <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface. The site can be accessed here - <ins>RealtyJunction</ins>(https://realty-junction.onrender.com/) </p>
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
