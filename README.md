@@ -26,7 +26,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
-<p align="justify"><h3 align="justify">Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I cultivated expertise in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h3></p>
+<h4 align="justify">Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I gained experience in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h4>
 * **[<ins>Diabetes Prediction</ins>](https://github.com/nihaarn97/Eduvance_Notebooks/blob/main/Perceptron_Diabetes_Predict.ipynb) -**
 
    <p align="justify">Constructed a Perceptron Model to predict the likelihood of diabetes in individuals, utilizing key features such as Age, Insulin levels, and Glucose levels. Conducted comprehensive Exploratory Data Analysis (EDA) on the dataset, unveiling additional insights into the underlying patterns and factors influencing diabetes prediction.</p>
@@ -39,7 +39,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>IBM Data Science</ins>](https://github.com/nihaarn97/IBM_Data_Science)
-### Projects that I worked on during the IBM Data Science Professional Certification offered on Coursera
+<h4 align="justify">Projects that I worked on as part of the IBM Data Science Professional Certification offered on Coursera. I enrolled in this specialized course to acquire proficient skills in Data Science and Machine Learning to shift from a Software Engineer role and embark on a career as a Data Scientist. This was motivated by the desire to engage directly with clients and witness the tangible impact of my work.</h4>
 * **[<ins>Stock Price Visualization</ins>](https://github.com/nihaarn97/IBM_Data_Science/blob/main/Course%206%20-%20Webscraping%20%26%20SQL%20Magic/Stocks_Viz_API_Scraping.ipynb) -**
 
    Used the yfinance library and webscraping to gather stock data and visualize the growth of Tesla Stock over the years and the Crowd-Sourced short squeeze of GameStop Stock.  
