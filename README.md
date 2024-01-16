@@ -15,14 +15,14 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
   <p align="justify">Investigated the influence of diverse lifestyle factors, including exercise, bedtime, caffeine intake, smoking, and drinking habits, along with sleep quality metrics such as awakenings, deep sleep percentage, light sleep percentage, and REM sleep percentage. The objective was to ascertain whether these variables collectively contribute to achieving a sleep efficiency above a predefined threshold indicative of good sleep quality.</p>
 * **[<ins>Electric Transformer Oil Temperature Forecasting</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Electric%20Transformer%20Forecasting) -**
   
- <p align="justify">Developed and implemented ARMAX models for forecasting oil temperature in electrical transformers to address the challenge of efficient power distribution. This was achieved by analyzing historical data on transformer conditions, power demand, and external load factors.</p>
+  <p align="justify">Developed and implemented ARMAX models for forecasting oil temperature in electrical transformers to address the challenge of efficient power distribution. This was achieved by analyzing historical data on transformer conditions, power demand, and external load factors.</p>
  
 * **[<ins>Sketch Classification Using Neural Networks</ins>](https://github.com/nihaarn97/IUB_Projects/tree/main/Sketch%20Classification%20NN) -**
   
   <p align="justify">Developed a Convolutional Neural Network (CNN) leveraging TensorFlow classify a diverse array of hand-drawn sketches into 100 distinct classes. Through training and optimization, the model attained an accuracy rate of 70%, showcasing a robust capability for image classification.</p>
 * **[<ins>RealtyJunction</ins>](https://github.com/anujmahajan98/Realty-Junction---Real-Estate-Contractor/tree/abhishek) -**
   
-  <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface.</p>
+  <p align="justify">Developed an online property management system using the MERN stack for landlords and agents to seamlessly list their properties for sale or rent, while offering potential buyers and renters a user-friendly interface.The site can be accessed [<ins>here</ins>](https://realty-junction.onrender.com/)</p>
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
