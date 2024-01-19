@@ -45,6 +45,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 * **[<ins>Restaurant Idea Generation</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
   
   <p align="justify">Developed a streamlit app that uses LangChain and OpenAI to generate an idea for a restaurant based on a selected cuisine. The user enters type of cuisine, type of course and number of dishes as input and the system generates a unique name for the restaurant along with menu item recommendations based on the other input parameters.</p>
+
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
 <h4 align="justify">Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I gained experience in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h4>
