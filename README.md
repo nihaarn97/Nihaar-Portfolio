@@ -40,7 +40,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>GenAI - Large Language Models</ins>](https://github.com/nihaarn97/GenAI_LLM)
-<h4 align="justify">Projects I've worked on out of interest in the field of GenAI particularly in the applications that can e developed using Large Language Models.</h4>
+<h4 align="justify">Projects I have worked on out of interest in the booming field of Generative AI with a keen focus on applications that can be developed using technologies like LangChain and Large Language Models like GPT and PaLM.</h4>
 
 * **[<ins>Restaurant Idea Generation</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
   
