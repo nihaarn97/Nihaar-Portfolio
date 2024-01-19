@@ -40,11 +40,14 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>GenAI - Large Language Models</ins>](https://github.com/nihaarn97/GenAI_LLM)
-<h4 align="justify">Projects I have worked on out of interest in the booming field of Generative AI with a keen focus on applications that can be developed using technologies like LangChain and Large Language Models like GPT and PaLM.</h4>
+<h4 align="justify">Projects I have worked on out of interest in the booming field of Generative AI with a keen focus on applications that can be developed using technologies like LangChain and Large Language Models like GPT and LLaMA.</h4>
 
-* **[<ins>Restaurant Idea Generation</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
+* **[<ins>Restaurant Idea Generation Tool</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
   
   <p align="justify">Developed a streamlit app that uses LangChain and OpenAI to generate an idea for a restaurant based on a selected cuisine. The user enters type of cuisine, type of course and number of dishes as input and the system generates a unique name for the restaurant along with menu item recommendations based on the other input parameters.</p>
+
+* **[<ins>Blog Generation Tool</ins>]() -**
+* **[<ins>News Research Tool</ins>]() -**
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
