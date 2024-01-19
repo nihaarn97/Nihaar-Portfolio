@@ -26,7 +26,7 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 ---
 # [<ins>PyTorch For Deep Learning</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning)
-<h4 align="justify"> Recognizing the pervasive adoption of PyTorch in industry giants such as Meta, Uber, Tesla, and OpenAI, I proactively undertook a comprehensive course by freeCodeCamp to align my skillset with the prevailing demands of the job market.</h4>
+<h4 align="justify">Recognizing the pervasive adoption of PyTorch in industry giants such as Meta, Uber, Tesla, and OpenAI, I proactively undertook a comprehensive course by freeCodeCamp to align my skillset with the prevailing demands of the job market.</h4>
 
 * **[<ins>PyTorch Project Workflow</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
   
@@ -37,6 +37,10 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 * **[<ins>PyTorch Computer Vision</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Computer_Vision.ipynb) -**
   
   <p align="justify">Use the functionalities of torchvision to replicated the TinyVGG architecture consisting of 2 convolutional blocks for the multi-class classification problem of images in the Fashion MNIST dataset.</p>
+
+---
+# [<ins>GenAI - Large Language Models</ins>](https://github.com/nihaarn97/GenAI_LLM)
+<h4 align="justify">Projects I've worked on out of interest in the field of GenAI particularly in the applications that can e developed using Large Language Models.</h4>
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
