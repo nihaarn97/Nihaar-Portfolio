@@ -28,6 +28,16 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 # [<ins>PyTorch For Deep Learning</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning)
 <h4 align="justify"> Recognizing the pervasive adoption of PyTorch in industry giants such as Meta, Uber, Tesla, and OpenAI, I proactively undertook a comprehensive course by freeCodeCamp to align my skillset with the prevailing demands of the job market.</h4>
 
+* **[<ins>PyTorch Project Workflow</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
+  
+  <p align="justify">Covered the standard PyTorch workflow for a simple Linear Regression probelm with steps like getting data ready (tensor conversion), building model and training loop with loss function and optimizer, fitting model and making predicitons, evaluating the model and improving through experimentation and saving the trained model.</p>
+* **[<ins>PyTorch Neural Networks</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Neural_Network.ipynb) -**
+  
+  <p align="justify">Developed multiple Neural Networks for binary classification and multi-class classification problems by utilizing different layers, loss functions and activation fuctions best suited for the task at hand.</p>
+* **[<ins>PyTorch Computer Vision</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Computer_Vision.ipynb) -**
+  
+  <p align="justify">Use the functionalities of torchvision to replicated the TinyVGG architecture consisting of 2 convolutional blocks for the multi-class classification problem of images in the Fashion MNIST dataset.</p>
+
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
 <h4 align="justify">Projects that I worked on as part of the Summer Internship and Industrial Training Program at Eduvance. During my internship, I gained experience in Python-based Data Analysis, Data Visualization, and Machine Learning, uncovering the profound potential of machine learning in swiftly addressing intricate challenges with superior accuracy compared to human experts. This experience highlighted the transformative power of machine learning, underscoring its ability to expedite problem-solving processes.</h4>
