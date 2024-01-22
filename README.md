@@ -44,10 +44,12 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
 
 * **[<ins>Restaurant Idea Generation Tool</ins>](https://github.com/nihaarn97/PyTorch_DeepLearning/blob/main/PyTorch_Workflow.ipynb) -**
   
-  <p align="justify">Developed a streamlit app that uses LangChain and OpenAI to generate an idea for a restaurant based on a selected cuisine. The user enters type of cuisine, type of course and number of dishes as input and the system generates a unique name for the restaurant along with menu item recommendations based on the other input parameters.</p>
+  <p align="justify">Developed a streamlit app that uses LangChain and OpenAI's LLM to generate an idea for a restaurant based on a selected cuisine. The user enters type of cuisine, type of course and number of dishes as input and the system generates a unique name for the restaurant along with menu item recommendations based on the other input parameters.</p>
 
 * **[<ins>Blog Generation Tool</ins>]() -**
-* **[<ins>News Research Tool</ins>]() -**
+* **[<ins>News Research Tool</ins>](https://github.com/nihaarn97/GenAI_LLM/tree/main/NewsResearchTool) -**
+
+  <p align="justify">Developed a streamlit app that integrates LangChain, FAISS vector store and OpenAI's LLM to empower users to gain dynamic insights and summarizations of news articles across any topic of interest. Users can enter upto 4 URLs that are processed and transformed to a vector index using FAISS algorithm. Once processed, users can pose questions and the application will provide answers leveraging the content of the news articles in the processed URLs. Application also provides the link of the URL as the source of the answer.</p>
 
 ---
 # [<ins>Eduvance Internship</ins>](https://github.com/nihaarn97/Eduvance_Notebooks)
