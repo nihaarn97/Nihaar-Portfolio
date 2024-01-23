@@ -46,7 +46,10 @@ Hi there! I'm Nihaar Nandedkar, a 26 year old Graduate Student at Indiana Univer
   
   <p align="justify">Developed a streamlit app that uses LangChain and OpenAI's LLM to generate an idea for a restaurant based on a selected cuisine. The user enters type of cuisine, type of course and number of dishes as input and the system generates a unique name for the restaurant along with menu item recommendations based on the other input parameters.</p>
 
-* **[<ins>Blog Generation Tool</ins>]() -**
+* **[<ins>Blog Generation Tool</ins>](https://github.com/nihaarn97/GenAI_LLM/tree/main/BlogGenerationTool) -**
+
+  <p align="justify">Developed a streamlit app that integrates LangChain and Meta AI's LLaMA-2 7B  model to effortlessly generate tailor-made blog posts on any given topic of the users choice. By simply entering the desired topic, along with specific details such as word count and target audience preferences, users can harness the advanced capabilities of LLaMA-2 brought forth by efficient prompt engineering.</p>
+
 * **[<ins>News Research Tool</ins>](https://github.com/nihaarn97/GenAI_LLM/tree/main/NewsResearchTool) -**
 
   <p align="justify">Developed a streamlit app that integrates LangChain, FAISS vector store and OpenAI's LLM to empower users to gain dynamic insights and summarizations of news articles across any topic of interest. Users can enter upto 4 URLs that are processed and transformed to a vector index using FAISS algorithm. Once processed, users can pose questions and the application will provide answers leveraging the content of the news articles in the processed URLs. Application also provides the link of the URL as the source of the answer.</p>
